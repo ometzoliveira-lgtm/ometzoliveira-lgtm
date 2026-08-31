@@ -1,41 +1,40 @@
-# Olá! Eu sou a Eduarda 👋
+# 👋 Olá, eu sou a Eduarda!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha carreira na área de Tecnologia da Informação.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonada por tecnologia, inovação e desenvolvimento de software.  
+💡 Atualmente em formação complementar pela **IBM** e **Amazon**, explorando desenvolvimento fullstack, suporte técnico e computação em nuvem.
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web, prototipagem de sistemas e inovação.
+## 🚀 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Metodologias%20Ágeis-25A162?logo=scrumalliance&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-054ADA?logo=ibm&logoColor=white)
 
-## 💻 Tecnologias e ferramentas
+## 📂 Projetos
+- **Sistema de Gestão de Processos Digitais (SGPD)**  
+  Projeto acadêmico desenvolvido utilizando conceitos de Engenharia de Software, modelagem de sistemas e prototipagem.  
+  Ferramentas utilizadas: **Figma** para prototipagem.
 
-- Python
-- Java
-- Spring Boot
-- Git e GitHub
-- Figma
-- Engenharia de Software
-- Metodologias Ágeis
+- **Provador Virtual**  
+  Projeto em grupo com foco em tecnologia e inovação, criando uma solução digital de provador virtual.
 
-## 🚀 Projetos
-
-### Sistema de Gestão de Processos Digitais
-Projeto acadêmico desenvolvido utilizando conceitos de Engenharia de Software, modelagem de sistemas e prototipagem.
-
-### Provador Virtual
-Projeto desenvolvido em grupo com foco em tecnologia e inovação, criando uma solução digital de provador virtual.
-
-### Dashboard
-Projeto de prototipagem de um dashboard para organização e visualização de informações.
+- **Dashboard**  
+  Projeto de prototipagem de um dashboard para organização e visualização de informações.
 
 ## 📚 Atualmente estudando
-
+- Desenvolvimento Fullstack (IBM)
+- Suporte Técnico (IBM)
+- AWS Cloud (Amazon)
 - Python
-- Java e Spring Boot
-- Desenvolvimento de sistemas
 - Engenharia de Software
 - Inglês
 
 ## 🎯 Áreas de interesse
-
 - Desenvolvimento de software
 - Desenvolvimento web
 - Tecnologia e inovação
 - Análise e desenvolvimento de sistemas
+
+## 🌐 Contato
+[LinkedIn](https://www.linkedin.com/in/eduarda-oliveira-silva) | ✉️ eduarda@email.com
+
