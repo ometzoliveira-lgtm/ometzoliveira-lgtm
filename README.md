@@ -36,5 +36,5 @@
 - Análise e desenvolvimento de sistemas
 
 ## 🌐 Contato
-[LinkedIn](https://www.linkedin.com/in/eduarda-oliveira-silva) | [Email](ometz.oliveira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduarda-oliveira-silva) 
 
