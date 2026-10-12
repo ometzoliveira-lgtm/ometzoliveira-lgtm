@@ -1,40 +1,75 @@
-# 👋 Olá, eu sou a Eduarda!
+# Hi, I'm Eduarda Oliveira Silva 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonada por tecnologia, inovação e desenvolvimento de software.  
-💡 Atualmente em formação complementar pela **IBM** e **Amazon**, explorando desenvolvimento fullstack, suporte técnico e computação em nuvem.
+### Aspiring Java Backend Developer | Software Development Student
 
-## 🚀 Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Metodologias%20Ágeis-25A162?logo=scrumalliance&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-054ADA?logo=ibm&logoColor=white)
+I'm a Software Development student pursuing a degree in **Systems Analysis and Development at UNICID, Brazil**. I'm building my programming skills and developing projects to strengthen my knowledge of software development.
 
-## 📂 Projetos
-- **Sistema de Gestão de Processos Digitais (SGPD)**  
-  Projeto acadêmico desenvolvido utilizando conceitos de Engenharia de Software, modelagem de sistemas e prototipagem.  
-  Ferramentas utilizadas: **Figma** para prototipagem.
+My current career goal is to start as a **Java Backend Developer Intern or Junior Developer**, contribute to meaningful projects, and continue learning from experienced professionals.
 
-- **Provador Virtual**  
-  Projeto em grupo com foco em tecnologia e inovação, criando uma solução digital de provador virtual.
+- 🎓 **Education:** Systems Analysis and Development — UNICID
+- 💻 **Primary focus:** Java and Backend Development
+- 🌱 **Currently learning:** Java through the CI&T Java AI Copilot bootcamp
+- 🌎 **Location:** São Paulo, Brazil
+- 🤝 **Open to:** Internship and entry-level opportunities in software development
 
-- **Dashboard**  
-  Projeto de prototipagem de um dashboard para organização e visualização de informações.
+## 🛠️ Technical Skills
 
-## 📚 Atualmente estudando
-- Desenvolvimento Fullstack (IBM)
-- Suporte Técnico (IBM)
-- AWS Cloud (Amazon)
+**Programming Languages**
+- Java
 - Python
-- Engenharia de Software
-- Inglês
+- JavaScript (ES6)
 
-## 🎯 Áreas de interesse
-- Desenvolvimento de software
-- Desenvolvimento web
-- Tecnologia e inovação
-- Análise e desenvolvimento de sistemas
+**Web Technologies**
+- HTML5
+- CSS3
 
-## 🌐 Contato
-[LinkedIn](https://www.linkedin.com/in/eduarda-oliveira-silva) 
+**Tools**
+- Git
+- GitHub
+- Figma
+
+**Software Design & Modeling**
+- UML
+- BPMN
+- Prototyping
+
+## 🚀 Projects
+
+### ONG Esperança — Nonprofit Website
+
+A web project designed to present a nonprofit organization and provide donation and registration features.
+
+**Technologies:** HTML5, CSS3, JavaScript (ES6), Git, GitHub.
+
+[View Repository](https://github.com/ometzoliveira-lgtm/ong-esperanca)
+
+### Digital Process Management System (SGPD)
+
+An academic project focused on software engineering, process modeling, and system prototyping.
+
+**Tools and concepts:** Figma, UML, BPMN.
+
+### Virtual Fitting Room
+
+A collaborative project exploring a digital virtual fitting room concept.
+
+### Dashboard Prototype
+
+A prototyping project focused on organizing and visualizing information through a dashboard interface.
+
+## 📚 Education & Professional Development
+
+- **Systems Analysis and Development** — UNICID, Brazil
+- **CI&T — Java AI Copilot Bootcamp** — In progress
+- **Python** — Fundação Bradesco
+- **IT Fundamentals: Hardware and Software** — Fundação Bradesco
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/eduarda-oliveira-silva)
+- [GitHub](https://github.com/ometzoliveira-lgtm)
+
+---
+
+*I'm continuously learning, building projects, and growing as a software developer.*
 
